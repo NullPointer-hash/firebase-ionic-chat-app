@@ -37,4 +37,4 @@ After installing the required packages you can easily test the app on the browse
 ```
 ionic serve
 ```
-navigate to http://localhost:8100 in your browser to find the login page, you can create a user by navigating to the
+navigate to http://localhost:8100 in your browser to find the login page, you can create a user by navigating to the register page
