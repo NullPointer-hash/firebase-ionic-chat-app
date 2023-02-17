@@ -3,7 +3,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This is a real time group chat app made using Ionic/React Typescript and Firebase, you can register and start chatting in a global group chat, there is only one group chat, i havent added the ability to add group chats yet
+This is a real time group chat app made using Ionic/React Typescript and Firebase, you can register and start chatting in a global group chat, there is only one group chat, i havent added the ability to add group chats yet <br />
+
+![2](https://user-images.githubusercontent.com/71095227/219805229-b4a21510-85e3-4070-9f0b-0543f9197b9c.PNG)
+
 
 ## Requirements
 
