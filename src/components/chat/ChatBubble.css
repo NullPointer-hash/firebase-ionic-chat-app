@@ -1,0 +1,31 @@
+.chat-bubble {
+    max-width: 80%;
+    min-width: 30%;
+    /* width: 65%; */
+    padding: 10px 15px;
+    border-radius: 16px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.chat-bubble.left {
+    background-color: #6a738150;
+    margin-right: auto;
+    color: #fff;
+    border-radius: 20px 20px 20px 2px;
+}
+
+.chat-bubble.right {
+    background-color: #17a2b8;
+    margin-left: auto;
+    color: #fff;
+    border-radius: 20px 20px 2px 20px;
+}
+
+.username {
+    font-size: 12px;
+    color: #ffffff91;
+    margin-left: auto;
+}
