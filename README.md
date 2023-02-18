@@ -7,6 +7,9 @@ This is a real time group chat app made using Ionic/React Typescript and Firebas
 
 ![2](https://user-images.githubusercontent.com/71095227/219805229-b4a21510-85e3-4070-9f0b-0543f9197b9c.PNG)
 
+## Basic Architecture
+
+![architecture](https://user-images.githubusercontent.com/71095227/219823464-18aac625-2320-43c2-b2d8-364bdb776068.png)
 
 ## Requirements
 
