@@ -18,13 +18,7 @@ const FirebaseProvider: React.FC<{children: React.ReactNode}> = ({ children }) =
 
   useEffect(() => {
     const app = firebase.initializeApp({
-      apiKey: "AIzaSyAMGbepKBYPm4-LhRpFj8BRSIolMP-HMBE",
-      authDomain: "chat-app-6144d.firebaseapp.com",
-      databaseURL: "https://chat-app-6144d-default-rtdb.europe-west1.firebasedatabase.app",
-      projectId: "chat-app-6144d",
-      storageBucket: "chat-app-6144d.appspot.com",
-      messagingSenderId: "950238756545",
-      appId: "1:950238756545:web:f5f44a37714a69ee4f5e40"
+      // YOUR FIREBASE CONFIGURATION INFO
     });
     console.log("1. FirebaseProvider logging firebase state: ", firebaseApp)
     console.log("2. FirebaseProvider logging firebase app: ", app)
